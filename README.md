@@ -38,7 +38,6 @@ The main porpuse of this repo is showing how is the switch statement be used.
     </il>
   </ol>
 </details>
-
 <details>
   <summary>D</summary>
   <ul>
@@ -47,7 +46,6 @@ The main porpuse of this repo is showing how is the switch statement be used.
     </il>
   </ul>
 </details>
-
 <details>
   <summary>G</summary>
   <ul>
@@ -56,7 +54,6 @@ The main porpuse of this repo is showing how is the switch statement be used.
     </il>
   </ul>
 </details>
-
 <details>
   <summary>J</summary>
   <ul>
@@ -69,7 +66,6 @@ The main porpuse of this repo is showing how is the switch statement be used.
     </il>
   </ul>
 </details>
-
 <details>
   <summary>P</summary>
   <ul>
@@ -78,7 +74,14 @@ The main porpuse of this repo is showing how is the switch statement be used.
       <il>
   </ul>
 </details>
-    
+<details>
+  <summary>R</summary>
+  <ul>
+    <il>
+      <a href="https://github.com/In-All-Programming-Languages/switch-in-all-programming-languages/blob/main/switch.rb">Ruby</a>
+      <il>
+  </ul>
+</details>
 <details>
   <summary>T</summary>
   <ul>
